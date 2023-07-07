@@ -1,0 +1,40 @@
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.exe
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.deps.json
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.runtimeconfig.json
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.dll
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.pdb
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.Form1.resources
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.Properties.Resources.resources
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.AssemblyInfo.cs
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.dll
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\refint\proyectoFinal.dll
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.pdb
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.genruntimeconfig.cache
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\ref\proyectoFinal.dll
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.presentacion.cargando.resources
+C:\Users\Nerry\Desktop\Documentos Universidad\Base de datos1\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.presentacion.principal.resources
+C:\Users\Nerry\Desktop\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.exe
+C:\Users\Nerry\Desktop\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.deps.json
+C:\Users\Nerry\Desktop\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.runtimeconfig.json
+C:\Users\Nerry\Desktop\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.dll
+C:\Users\Nerry\Desktop\proyectoFinal\bin\Debug\net6.0-windows\proyectoFinal.pdb
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.Form1.resources
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.presentacion.principal.resources
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.Properties.Resources.resources
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.AssemblyInfo.cs
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.dll
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\refint\proyectoFinal.dll
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.pdb
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.genruntimeconfig.cache
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\ref\proyectoFinal.dll
+C:\Users\Nerry\Desktop\proyectoFinal\obj\Debug\net6.0-windows\proyectoFinal.presentacion.registro.resources

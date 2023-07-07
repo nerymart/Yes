@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "proyectoFinal": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
